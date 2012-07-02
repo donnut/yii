@@ -63,7 +63,7 @@ Yii::setPathOfAlias('Imagine',Yii::getPathOfAlias('application.vendors.Imagine')
 // etc.
 ~~~
 
-In the code above the name of the alias we've defined should match the first namespace
+In the code above, the name of the alias we've defined should match the first namespace
 part used in the library.
 
 Using Yii in 3rd-Party Systems
